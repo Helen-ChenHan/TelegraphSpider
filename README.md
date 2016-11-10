@@ -1,1 +1,3 @@
 # TelegraphSpider
+
+scrapy crawl tel
